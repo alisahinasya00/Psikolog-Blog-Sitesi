@@ -1,8 +1,9 @@
 # Psikolog Blog Sitesi
 
-Bu proje, psikologlar için geliştirilmiş bir blog sitesidir. Psikoloji alanında çeşitli makaleler, tavsiyeler ve danışmanlık hizmetleri sunulmaktadır.
+Bu proje, psikologlar için geliştirmiş olduğum bir blog sitesidir. 
+Psikoloji alanında çeşitli yorumlar, tavsiyeler ve danışmanlık hizmetleri sunulmaktadır.
 
-**Canlı siteye buradan ulaşabilirsiniz: [www.seymabilenasya.com](https://www.seymabilenasya.com/)**
+**Canlı siteye buradan ulaşabilirsiniz: <a href="https://www.seymabilenasya.com/" target="_blank">www.seymabilenasya.com</a>**
 
 ## Teknolojiler
 - **Backend:** .NET Core 6 MVC
@@ -10,9 +11,6 @@ Bu proje, psikologlar için geliştirilmiş bir blog sitesidir. Psikoloji alanı
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
 ## Özellikler
-- Blog yazıları ve yorumlar
+- Blog yazıları
 - Danışmanlık bilgileri
-- Psikolojik destek kaynakları
-
-## İletişim
-Daha fazla bilgi için site üzerinden iletişime geçebilirsiniz.
+- Randevu Bilgileri

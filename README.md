@@ -8,6 +8,7 @@ Psikoloji alanında çeşitli yazılar, tavsiyeler ve danışmanlık hizmetleri 
 ## Teknolojiler
 - **Backend:** .NET Core 6 MVC
 - **Veritabanı:** SQL Server
+- - **Kimlik Yönetimi:** ASP.NET Core Identity, ASP.NET Core Identity EF Core
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
 ## Özellikler
